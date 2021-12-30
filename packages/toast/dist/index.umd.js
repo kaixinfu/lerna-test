@@ -2459,7 +2459,7 @@
 
 	var index = (function (_ref) {
 	  var title = _ref.title;
-	  return /*#__PURE__*/react.createElement("h1", null, "test03-", title);
+	  return /*#__PURE__*/react.createElement("h1", null, "test04-", title);
 	});
 
 	exports.Foo = index;
