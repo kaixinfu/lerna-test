@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "@kaixin/toast",
   "version": "1.0.2",
   "scripts": {
